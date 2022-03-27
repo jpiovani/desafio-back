@@ -1,0 +1,1 @@
+ALTER TABLE tbl_paciente ALTER COLUMN cep TYPE varchar(14);

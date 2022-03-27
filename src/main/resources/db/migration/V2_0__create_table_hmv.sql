@@ -1,0 +1,1 @@
+ALTER TABLE tbl_paciente ALTER COLUMN numero TYPE varchar(7);
